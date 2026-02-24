@@ -4,5 +4,6 @@
 
 ## Zip-файл з кодом
 
+[WEB.zip](https://github.com/user-attachments/files/25531788/WEB.zip)
 
-[Download project](./WEB.zip)
+
